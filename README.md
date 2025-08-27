@@ -7,27 +7,29 @@ Currently open to **local job opportunities** where I can apply my skills and co
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
+- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Other Tools:** Git, GitHub, Docker, Postman
 
-**Frontend:**  
-React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS  
-
-**Backend:**  
-Node.js • Express.js  
-
-**Databases:**  
-MongoDB • MySQL  
-
-**Tools & Others:**  
-Git • GitHub • REST APIs • Vercel • Postman  
 
 ---
 
 ## 📌 Featured Projects
 
-- 🌐 [Portfolio Website](https://portfolio-website-chi-blond-28.vercel.app) – Responsive portfolio with Tailwind CSS & animations  
+- 🌐 [Portfolio Website](https://portfolio-website-chi-blond-28.vercel.app) – Responsive portfolio with Tailwind CSS & animations
+- 🔗 [Live Demo](https://samuelnugusu.github.io/portfolio-website/)   
 - 🛒 MERN E-Commerce App – Full-stack shopping app with authentication, cart, and payments *(in progress)*  
-- 📊 Dashboard App – React + Node.js dashboard with charts and analytics *(coming soon)*  
+- 📊 Dashboard App – React + Node.js dashboard with charts and analytics *(coming soon)*
+-  [Responsive Navbar](https://github.com/your-repo) – Clean mobile-friendly navigation bar (HTML, CSS, Flexbox) 
+
+---
+
+## 💡 Strengths & Growth
+- Strong foundation in full-stack development (React, Node.js, Express, MongoDB, MySQL)  
+- Experience building responsive UIs with Tailwind CSS & modern JavaScript  
+- Growing expertise in API security, authentication, and cloud deployment (Docker, AWS)  
 
 ---
 
@@ -35,16 +37,6 @@ Git • GitHub • REST APIs • Vercel • Postman
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelNugusu&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelNugusu&layout=compact&theme=radical)
-
----
-
-## 🌱 Strengths & Growth
-- Strong in React.js, Node.js, MongoDB, MySQL  
-- Expanding into cloud deployment (Docker, AWS)  
-- Practicing secure API design & authentication  
-
-
-
 ---
 
 ## 🤝 Let’s Connect
