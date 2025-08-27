@@ -7,11 +7,27 @@ Currently open to **local job opportunities** where I can apply my skills and co
 
 ---
 
-## 🛠 Tech Stack
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Other Tools:** Git, GitHub, Docker, Postman
+## 💻 Tech Stack  
+
+**Frontend**  
+- React.js  
+- HTML, CSS, Tailwind CSS  
+- JavaScript (ES6+)  
+
+**Backend**  
+- Node.js  
+- Express.js  
+
+**Databases**  
+- MongoDB  
+- MySQL  
+
+**Other Tools & Skills**  
+- Git & GitHub  
+- RESTful APIs  
+- Deployment (Netlify, Vercel, Render, Heroku)  
+- Docker (learning)  
+
 
 
 ---
