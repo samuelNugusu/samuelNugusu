@@ -39,7 +39,7 @@ Currently open to **local job opportunities** where I can apply my skills and co
 - 🛒 MERN E-Commerce App – Full-stack shopping app with authentication, cart, and payments *(in progress)*  
 - 📊 Dashboard App – React + Node.js dashboard with charts and analytics *(coming soon)*
 -  ▶️ Live Demo
-👉 [Responsive Navbar](https://samuelnugusu.github.io/responsive-navbar/))  – Clean mobile-friendly navigation bar (HTML, CSS, Flexbox) 
+👉 [portfolio-website-old](https://samuel-website-old-silk.vercel.app))  – Clean mobile-friendly navigation bar (HTML, CSS, Flexbox) 
 
 ---
 
