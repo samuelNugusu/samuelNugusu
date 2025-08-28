@@ -38,7 +38,8 @@ Currently open to **local job opportunities** where I can apply my skills and co
 - 🔗 [Live Demo](https://samuelnugusu.github.io/portfolio-website/)   
 - 🛒 MERN E-Commerce App – Full-stack shopping app with authentication, cart, and payments *(in progress)*  
 - 📊 Dashboard App – React + Node.js dashboard with charts and analytics *(coming soon)*
--  [Responsive Navbar](https://github.com/your-repo) – Clean mobile-friendly navigation bar (HTML, CSS, Flexbox) 
+-  ▶️ Live Demo
+👉 [View on GitHub Pages](https://samuelnugusu.github.io/responsive-navbar/))  – Clean mobile-friendly navigation bar (HTML, CSS, Flexbox) 
 
 ---
 
