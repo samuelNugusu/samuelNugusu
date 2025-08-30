@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Samuel Nugusu  
 
-🎓 **Software Engineering Student (4th Year)** | 💻 **Full-Stack Developer** | 🌍 Tech Enthusiast  
+🎓 **Software Engineer** | 💻 **Full-Stack Developer** | 🌍 Tech Enthusiast  
 
 I’m passionate about building **modern web applications** using **React.js, Node.js/Express, Tailwind CSS, MongoDB, and MySQL**.  
 Currently open to **local job opportunities** where I can apply my skills and continue learning in a real-world environment.  
