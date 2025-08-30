@@ -56,8 +56,7 @@ Currently open to **local job opportunities** where I can apply my skills and co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelNugusu&layout=compact&theme=radical)
 ---
 
-## 🤝 Let’s Connect
-- 💼 LinkedIn: [Your LinkedIn](#)  
+## 🤝 Let’s Connect 
 - 📧 Email: **samuelnugusu7@email.com**  
 - 🌍 Portfolio: [portfolio-website-chi-blond-28.vercel.app](https://portfolio-website-chi-blond-28.vercel.app)  
 
