@@ -35,7 +35,7 @@ Currently open to **local job opportunities** where I can apply my skills and co
 ## 📌 Featured Projects
 
 - 🌐 [Portfolio Website](https://portfolio-website-chi-blond-28.vercel.app) – Responsive portfolio with Tailwind CSS & animations
-- 🔗 [Live Demo]((https://github.com/samuelNugusu/portfolio-website))   
+- 🔗 [Live Demo]([(https://github.com/samuelNugusu/portfolio-website)])   
 - 🛒 MERN E-Commerce App – Full-stack shopping app with authentication, cart, and payments *(in progress)*  
 - 📊 Dashboard App – React + Node.js dashboard with charts and analytics *(coming soon)*
 -  ▶️ Live Demo
